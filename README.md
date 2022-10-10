@@ -1,5 +1,3 @@
-# badcodeeee.github.io
-<!DOCTYPE html>
 <html>
 
 <head>
