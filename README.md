@@ -1,8 +1,7 @@
 # badcodeeee.github.io
 <html>
-<title>fyx学习计划</title>
-
 <head>
+<title>fyx学习计划</title>
 <style>
 #header {
     background-color:pink;
