@@ -1,21 +1,38 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-<title>时间显示</title>
+<style>
+#header {
+    background-color:pink;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+	      
+#section {
+    width:350px;
+    float:left;
+    padding:10px;	 	 
+} 
+</style>
 </head>
+
 <body>
 
-<p>点击按钮来显示日期。</p>
+<div id="header">
+<h1>好好学习 天天向上</h1>
+</div>
 
-<button onclick="displayDate()">时间是？</button>
-
-<script>
-function displayDate() {
-    document.getElementById("demo").innerHTML = Date();
-}
-</script>
-
-<p id="demo"></p>
+<div id="section">
+<h2>学习目标</h2>
+<p>
+三天打鱼两天晒网
+</p>
+<p>
+两天打鱼三天晒网
+</p>
+</div>
 
 </body>
 </html>
