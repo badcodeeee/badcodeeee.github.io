@@ -1,5 +1,5 @@
 <html>
-<title>fyx学习计划<title>
+<title>fyx学习计划</title>
 
 <head>
 <style>
