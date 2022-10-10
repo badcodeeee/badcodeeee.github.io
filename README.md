@@ -1,38 +1,39 @@
-# badcodeeee.github.io
+<!DOCTYPE html>
 <html>
+
 <head>
-<title>fyx学习计划</title>
+<title>fuduoduo的学习计划</title>
 <style>
-#header {
+header {
     background-color:pink;
     color:white;
     text-align:center;
-    padding:5px;
+    padding:5px;	 
 }
-	      
-#section {
+section {
     width:350px;
     float:left;
     padding:10px;	 	 
-} 
+}
 </style>
 </head>
 
 <body>
 
-<div id="header">
-<h1>好好学习 天天向上</h1>
-</div>
+<header>
+<h1>好好学习天天向上</h1>
+</header>
 
-<div id="section">
-<h2>学习目标</h2>
+
+<section>
+<h1>学习计划</h1>
 <p>
 三天打鱼两天晒网
 </p>
 <p>
 两天打鱼三天晒网
 </p>
-</div>
+</section>
 
 </body>
 </html>
